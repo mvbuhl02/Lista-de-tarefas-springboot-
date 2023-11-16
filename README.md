@@ -14,11 +14,6 @@ API RESTful: o projeto fornece uma API RESTful para integração com outras apli
 
 Instruções de Uso:
 
-Clone o Repositório:
-
-bash
-Copy code
-git clone https://github.com/mvbuhl02/Lista-de-tarefas-springboot
 Configure o Banco de Dados:
 Configure as propriedades do banco de dados no arquivo application.properties.
 
@@ -34,7 +29,5 @@ Abra um navegador e acesse http://localhost:8080 para começar a utilizar a List
 Tecnologias Utilizadas:
 
 Spring Boot
-Spring MVC
-Thymeleaf (ou seu mecanismo de templates preferido)
 Spring Data JPA
 Banco de dados (H2)
